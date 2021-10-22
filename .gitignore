@@ -1,0 +1,9 @@
+.vs/
+Debug/
+CMakeFiles/
+CMakeCache.txt
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+cmake_install.cmake
